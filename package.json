@@ -1,0 +1,23 @@
+{
+  "name": "css-grid-table",
+  "version": "1.0.0",
+  "description": "Flexible Data Table With CSS Grid",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitHipster/css-grid-table.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitHipster/css-grid-table/issues"
+  },
+  "homepage": "https://github.com/MitHipster/css-grid-table#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
